@@ -7,7 +7,7 @@
 int main(){ 
 
     cout<< "Hello World"<< endl;
-    cout<<"Hola Unknown debugger"<<end;
+    cout<<"Hola Unknown debuger"<<end;
 
     return 0;
 }
